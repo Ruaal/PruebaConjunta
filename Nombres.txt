@@ -1,3 +1,6 @@
 Joan Ruiz 0
+<<<<<<< HEAD
 Martí Díaz 1
 Carla Tort 2
+
+Anna Esquerrà 6
